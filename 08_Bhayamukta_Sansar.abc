@@ -1,8 +1,8 @@
 X:8
-T:Bhayamukta Sansar Aur Param Shanti Ko Sakar Karna
+T:Bhayamukta Sansār Aur Param Shānti Ko Sākār Karnā
 M:4/4
 L:1/8
-Q:1/4=155
-K:Db
-|: _D2 FA _d2 f_a | _A2 c_e _a2 c'_e' | _B2 D_F _B2 _d_f | _G2 _B_d _f2 _a_b :|
-| _d' _a f _d _A _F _D _A, | _c' _a _e _c _A _E _C _A, | _b _f _d _B _F _D _B, _F, | _a _f _d _B _G _D _B, _G, |
+Q:1/4=84
+K:C
+|: C,2 G,C EGCE | F,2 CF ACFA | G,2 DG BDGB | C,2 G,C EGCE :|
+| c2 G2 E2 C2 | f2 c2 A2 F2 | g2 d2 B2 G2 | c4 C4 |
