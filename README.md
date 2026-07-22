@@ -108,7 +108,9 @@ When using, remixing, or redistributing this Sound OS Kernel (or any tracks incl
 
 **Credit:**
 > **Composed & Produced by:** Strategist Kongming Huang Yueying
+> 
 > **Project:** #TheLovePreservedFoodProject
+> 
 > **Repository:** https://github.com/ascendance-of-a-music-lover/AMAP-Sound-OS-Kernel
 
 **Recommended Hashtags:**
