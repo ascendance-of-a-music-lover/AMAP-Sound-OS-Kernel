@@ -1,9 +1,8 @@
 X:11
-T:Parjanyah Vasundharayah Ucchalat Snehasya Swaroopam Asti
-M:2/4
+T:पर्जन्यः वसुन्धरायाः उच्छलत् स्नेहस्य स्वरूपम् अस्ति। / Parjanyah Vasundharayah
+M:4/4
 L:1/8
-Q:1/4=158
-K:Ebm
-|: _E, B, _E _G | _B _e _g _b | _D_A, _D _F | _A _d _f _a :|
-K:Gb
-| _G _B _d _g | _b _d' _g' _b' | _d _f _a _d' | _f' _a' _d'' _f'' |
+Q:1/4=96
+K:Dm
+|: D,2 A,D FADF | B,,2 F,B, DFBD | C,2 G,C EGCE | A,,2 E,A, CEAC :|
+| d2 A2 F2 D2 | b2 f2 d2 B2 | c'2 g2 e2 c2 | a2 e2 c2 A2 |
