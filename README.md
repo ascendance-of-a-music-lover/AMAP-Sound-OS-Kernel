@@ -114,6 +114,6 @@ When using, remixing, or redistributing this Sound OS Kernel (or any tracks incl
 > **Repository:** https://github.com/ascendance-of-a-music-lover/AMAP-Sound-OS-Kernel
 
 **Recommended Hashtags:**
-`#TheLovePreservedFoodProject` `#StrategistKongming` `#antifragilehumanOS``#AMAP_SoundOS`
+`#TheLovePreservedFoodProject` `#StrategistKongming` `#antifragilehumanOS` `#AMAP_SoundOS`
 * **Visualization:** Universal cosmic order where even monsoon torrents are weaponized to build decentralized harmony, like water charting its own course.
 * **Triggered Action:** Recall your true life purpose on Earth, and commit with absolute conviction to your lifelong mission to uplift the world.
