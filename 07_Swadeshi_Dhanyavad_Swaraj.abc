@@ -1,8 +1,8 @@
 X:7
-T:Swadeshi Dhanyavad Dhanyavad Swaraj
+T:Swadeshi Dhanyavad Dhanyavad Swaraj : स्वदेशी धन्यवाद धन्यवाद स्वराज्य
 M:4/4
 L:1/8
-Q:1/4=57
-K:D
-|: D2 FA d2 fd | A2 C'D' A2 FA | B2 DF B2 dB | F2 AC F2 DF :|
-| d f a f d A F D | c e a e c A E C | B d f d B F D B, | A c f c A F C A, |
+Q:1/4=90
+K:G
+|: G,2 DG BDGB | D2 FA dFAd | E2 GB eGBe | C2 EG cEGc :|
+| g2 d2 B2 G2 | f2 d2 A2 F2 | e2 B2 G2 E2 | c2 G2 E2 C2 |
