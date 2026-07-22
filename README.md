@@ -99,21 +99,19 @@
 #### Track 14: 『 ऋतम् / Ṛtam / ルタム（森羅万象の理） 』
 * **Acoustic Design:** 13:51 / 5-Movement Grand Cosmic Symphony / Alignment with Natural Cosmic Order (Ṛtam)
 * **Expected Transformation:** Transcendence of ego; integration with universal natural laws; complete fearlessness (Bhayamukta) and awakening of "Tat Tvam Asi" (Thou Art That).
+* **Visualization:** Universal cosmic order where even monsoon torrents are weaponized to build decentralized harmony, like water charting its own course.
+* **Triggered Action:** Recall your true life purpose on Earth, and commit with absolute conviction to your lifelong mission to uplift the world.
 
-* ---
+---
 
 ### 🏷️ Attribution & Credit Guidelines
 
 When using, remixing, or redistributing this Sound OS Kernel (or any tracks included within), please include the following credit and recommended hashtags in your project description, documentation, or social media posts:
 
 **Credit:**
-> **Composed & Produced by:** Strategist Kongming Huang Yueying
-> 
-> **Project:** #TheLovePreservedFoodProject
-> 
-> **Repository:** https://github.com/ascendance-of-a-music-lover/AMAP-Sound-OS-Kernel
+> **Composed & Produced by:** Strategist Kongming Huang Yueying  
+> **Project:** #TheLovePreservedFoodProject  
+> **Repository:** https://github.com/ascendance-of-a-music-lover/AMAP-Sound-OS-Kernel  
 
 **Recommended Hashtags:**
 `#TheLovePreservedFoodProject` `#StrategistKongming` `#antifragilehumanOS` `#AMAP_SoundOS`
-* **Visualization:** Universal cosmic order where even monsoon torrents are weaponized to build decentralized harmony, like water charting its own course.
-* **Triggered Action:** Recall your true life purpose on Earth, and commit with absolute conviction to your lifelong mission to uplift the world.
