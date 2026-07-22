@@ -1,8 +1,8 @@
 X:2
-T:First magnitude star
+T:First magnitude star / प्रथम परिमाण तारा
 M:4/4
 L:1/8
-Q:1/4=138
-K:Bm
-|: B,2 DF B2 dB | F2 A,D F2 AF | G2 B,D G2 bG | E2 G,B, E2 GE :|
-| b f d B F D B, F, | a f d A F D A, F, | g d B G D B, G, D, | e B G E B, G, E, B,, |
+Q:1/4=80
+K:Em
+|: E,2 B,E GBEB | C2 EG cEGc | D2 FA dFAd | B,2 D^F BD^FB :|
+| e2 B2 G2 E2 | c2 G2 E2 C2 | d2 A2 F2 D2 | b2 f2 d2 B2 |
