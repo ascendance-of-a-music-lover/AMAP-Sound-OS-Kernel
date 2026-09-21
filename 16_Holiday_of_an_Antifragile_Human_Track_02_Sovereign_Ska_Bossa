@@ -1,0 +1,16 @@
+X:16
+T:Holiday of an Antifragile Human - Track 02: Sovereign Ska-Bossa
+C:Strategist Kongming Huang Yueying
+M:4/4
+L:1/8
+Q:1/4=130
+K:F
+%%MIDI program 21
+%%MIDI control 7 110
+% Allegro Con Anima - Jump from Shock to Action
+V:1 name="Accordion & Flute"
+|: z z/2 [FAC] z z/2 [FAC] | z z/2 [FGB] z z/2 [FGB] | z z/2 [EGc] z z/2 [EGc] | z z/2 [FAC] z z/2 [FAC] :|
+|: f2 ed c2 FA | B2 AG A2 FC | D2 EF G2 AB | c2 BA G4 :|
+V:2 name="Ska Brass & Bass"
+|: F,,2 z2 C,2 z2 | D,,2 z2 A,,2 z2 | B,,2 z2 F,,2 z2 | C,,2 z2 G,,2 z2 :|
+|: F,2 A,2 C2 F2 | D,2 F,2 A,2 D2 | B,,2 D,2 F,2 B,2 | C,2 E,2 G,2 C2 :|
