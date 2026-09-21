@@ -1,0 +1,16 @@
+X:15
+T:Holiday of an Antifragile Human - Track 01: Nostalgic Prelude
+C:Strategist Kongming Huang Yueying
+M:4/4
+L:1/8
+Q:1/4=68
+K:Cm
+%%MIDI program 0
+%%MIDI control 7 100
+% Lento Espressivo - Acceptance of Fragility
+V:1 name="Piano & Flute"
+|: [CEG]4 [CFA]4 | [B,EG]4 [A,CF]4 | [G,EG]2 [F,C]2 [E,B,]2 [D,A,]2 | [C,G,]8 :|
+V:2 name="Solo Cello & Strings"
+|: C,2 G,C E2 G2 | A,,2 E,A, C2 E2 | B,,2 F,B, D2 F2 | G,,2 D,G, B,2 D2 :|
+|: c3 d e2 c2 | B3 c d2 B2 | A3 B c2 A2 | G8 :|
+|: "A=432Hz Tuning" [C,E,G,C]8 | [A,,C,E,A,]8 | [F,,A,,C,F,]8 | [G,,B,,D,G,]8 :|
