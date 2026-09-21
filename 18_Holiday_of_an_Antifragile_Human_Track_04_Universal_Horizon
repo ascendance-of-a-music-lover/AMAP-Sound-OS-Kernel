@@ -1,0 +1,16 @@
+X:18
+T:Holiday of an Antifragile Human - Track 04: Universal Horizon
+C:Strategist Kongming Huang Yueying
+M:4/4
+L:1/8
+Q:1/4=72
+K:D
+%%MIDI program 48
+%%MIDI control 7 105
+% Andante Maestoso - 432Hz Spiritual Ascension (Shanti)
+V:1 name="Solo Flute & Grand Piano"
+|: "A=432Hz tuned" f4 a4 | g3 f e4 | d4 f4 | e3 d c4 :|
+|: A, D F A d f a2 | B, D G B d g b2 | C E A c e a c'2 | D, F, A, D f4 :|
+V:2 name="Cello & Double Bass (Bowed)"
+|: D,,4 F,,4 | G,,4 B,,4 | A,,4 C,4 | D,,8 :|
+|: [D,,F,,A,,]8 | [G,,B,,D,]8 | [A,,C,E,]8 | [D,,F,,A,,D,]8 :|
