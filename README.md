@@ -141,6 +141,27 @@ This official badge is released as part of our open-source protocol. Anyone who 
 ```markdown
 [![The Love Preserved Food Project Badge](https://raw.githubusercontent.com/ascendance-of-a-music-lover/AMAP-Sound-OS-Kernel/main/02.jpg)](https://github.com/ascendance-of-a-music-lover/AMAP-Sound-OS-Kernel)
 
+---
+
+### 🛡️ Legal Notice, License & Disclaimer
+
+#### 1. Non-Clinical & Artistic Notice
+The A=432 Hz tuning and sound architectures contained within this repository are pure artistic, compositional, and philosophical choices. They are intended solely for voluntary listening, reflection, movement, and community creation. **They are NOT presented as medical treatment, psychotherapy, diagnostic tools, or guaranteed medical methods for reducing stress or treating trauma.**
+
+#### 2. Official Badge & Brand Use Notice
+The **#TheLovePreservedFoodProject Official Badge** and associated logos/crests (`02.jpg`, `TheLovePreservedFoodProject.png`, etc.) are released to allow supporters to show voluntary alignment with the values of dignity, inclusion, and community resilience.
+* **No Official Endorsement:** Displaying this badge does **NOT** constitute an official partnership, certification, endorsement, funding, or authorization by Strategist Kongming LLC, Huang Yueying, or The Love Preserved Food Project.
+* **Prohibited Uses:** Commercial exploitation, misleading affiliation claims, medical/health claims, discriminatory use, or use in connection with unlawful or fraudulent activities is strictly prohibited without prior written permission.
+
+#### 3. Multi-Layered Intellectual Property Rights
+To protect both open collaboration and brand integrity, assets in this repository are governed as follows:
+* **ABC Notations & Code:** Licensed under the [MIT License](LICENSE) (Free to reference, adapt, and build upon).
+* **Audio Works & Compositions:** Copyrighted by Strategist Kongming Huang Yueying. Distributed via official streaming channels for personal, non-commercial listening.
+* **Badges, Crests & Trademarks:** Subject to the *Official Badge & Brand Use Notice* above (Non-commercial support endorsement only).
+
+#### 4. Institutional Disclaimer
+This repository, its protocols, and associated musical works represent independent initiatives by Strategist Kongming LLC. Nothing contained herein implies formal approval, endorsement, sponsorship, or official partnership with the University of Patanjali, the World Bank, the Asian Development Bank (ADB), or any government entity, unless explicitly confirmed via formal written agreements.
+
 ### 🏷️ Attribution & Credit Guidelines
 
 When using, remixing, or redistributing this Sound OS Kernel (or any tracks included within), please include the following credit and recommended hashtags in your project description, documentation, or social media posts:
