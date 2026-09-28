@@ -1,0 +1,25 @@
+X:18
+T:Marching Forward with Indomitable Resolve
+C:Strategist Kongming Huang Yueying
+N:Anti-fragile Human OS for The Love Preserved Food Project 06 - Track 04
+N:A=432Hz Verdi Tuning / Andante Maestoso (Symphonic Horizon)
+M:4/4
+L:1/8
+Q:1/4=72
+K:D
+%%staves {(1 2) 3}
+V:1 clef=treble
+|: "D" D3 E F2 A2 | "A/C#" E6 A2 | "Bm" F3 G A2 d2 | "F#m" c6 f2 |
+| "G" d3 c B2 d2 | "D/F#" A2 F2 D2 F2 | "Em7" E3 F G2 B2 | "A7" A6 A2 |
+| "D" d3 c B2 A2 | "F#7" c3 B ^A2 F2 | "Bm" B3 A G2 F2 | "E7" ^G6 B2 |
+| "G" d2 B2 "A7" e2 c2 | "F#m" f2 d2 "Bm" B4 | "Em7" G3 A "A7" F2 E2 | "D" D8 :|
+V:2 clef=treble
+|: [F,4A,4] [A,4D4] | [A,4C4] [C4E4] | [D4F4] [F4A4] | [C4F4] [A4c4] |
+| [B,4D4] [D4G4] | [D4F4] [A,4D4] | [B,4E4] [D4G4] | [C4E4] [C4E4] |
+| [F4A4] [D4F4] | [F4^A4] [C4F4] | [D4F4] [B,4D4] | [D4E4] [E4^G4] |
+| [D4G4] [E4G4] | [F4A4] [D4F4] | [B,4E4] [A,4C4] | [A,8D8] :|
+V:3 clef=bass
+|: "D" D,,2 A,,2 D,2 A,,2 | "A/C#" C,,2 A,,2 E,2 A,,2 | "Bm" B,,2 F,,2 B,2 F,,2 | "F#m" F,,2 C,2 F,2 C,2 |
+| "G" G,,2 D,2 G,2 D,2 | "D/F#" F,,2 D,2 A,2 D,2 | "Em7" E,,2 B,,2 E,2 B,,2 | "A7" A,,2 E,2 A,2 E,2 |
+| "D" D,,2 A,,2 D,2 A,,2 | "F#7" F,,2 C,2 F,2 C,2 | "Bm" B,,2 F,,2 B,2 F,,2 | "E7" E,,2 B,,2 E,2 B,,2 |
+| "G" G,,2 D,2 "A7" A,,2 E,2 | "F#m" F,,2 C,2 "Bm" B,,2 F,,2 | "Em7" E,,2 B,,2 "A7" A,,2 E,2 | "D" D,,8 :|
