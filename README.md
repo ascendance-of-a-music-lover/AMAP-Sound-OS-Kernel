@@ -154,6 +154,41 @@
 - **Visualization**: Standing upon a vast, sunlit horizon, realizing that every breakthrough is not a final destination, but a stepping stone for endless growth and sovereign expansion.
 - **Triggered Action**: Reaffirm your sovereign purpose with calm conviction, stepping boldly forward into your next phase of evolution and global leadership.
 
+### Track 23: 『With the sorrow of being looked down upon in my heart / 心の中の見下された哀しみを胸に』
+
+- **Acoustic Design**: Lento Espressivo / C Minor / A=432Hz Verdi Tuning / Solitary Piano & Melancholic Solo Cello
+- **Expected Transformation**: Acknowledgment and deep processing of suppressed humiliation, grief, and the pain of being undervalued; transmuting silent sorrow into quiet dignity.
+- **Visualization**: Sitting alone in the dim shadows of cold judgment, embracing the bitter chill of humiliation until it hardens into an unshakeable inner anchor.
+- **Triggered Action**: Face past rejections and unfair labels without shame, converting the raw memory of being looked down upon into fuel for silent, uncompromising self-mastery.
+
+### Track 24: 『Turning Deep Sorrow into Strength / 深い哀しみを力に変えて』
+
+- **Acoustic Design**: Andante Sostenuto / C Minor to G Minor / Bowed Symphonic Strings, Grand Piano & Crescendo Brass
+- **Expected Transformation**: Phase transition of grief into raw kinetic energy; forging an impenetrable internal backbone from the ashes of sorrow.
+- **Visualization**: Molten iron flowing through frozen veins, where every past tear hardens into impenetrable armor and every heartbreak reinforces the spirit.
+- **Triggered Action**: Channel lingering resentment or grief directly into physical effort, rigorous strategic planning, or decisive creative execution.
+
+### Track 25: 『From Despair to Hope / 絶望から希望へ』
+
+- **Acoustic Design**: Moderato Ascendante / G Major / Acoustic Guitar, Woodwinds & Ascending Pizzicato Strings
+- **Expected Transformation**: Dissolution of despair and helpless inertia; awakening the central nervous system to new possibilities and sovereign hope.
+- **Visualization**: A single beam of golden sunlight piercing through dense, stormy clouds, illuminating an unchartered, promising path forward across the wilderness.
+- **Triggered Action**: Identify one immediate, constructive step out of a stagnant situation and execute it with calm optimism and newfound momentum.
+
+### Track 26: 『Hope is a powerful driving force, and / 希望は力強い推進力、そして』
+
+- **Acoustic Design**: 128 BPM Allegro Vivace / D Major / Driving Ska-JAZZ Rhythm, Horn Section & Buoyant Bassline
+- **Expected Transformation**: Igniting active hope as a high-octane engine for physical movement; breaking free from passive waiting into decisive, joyful momentum.
+- **Visualization**: Charging across an open plain with the wind at your back, endlessly propelled by unshakeable conviction and vibrant vitality.
+- **Triggered Action**: Initiate bold outreach, deliver decisive presentations, or take immediate physical action on your primary strategic goals.
+
+### Track 27: 『Breaking Free from “Fragile” / 「脆弱さ」からの脱却』
+
+- **Acoustic Design**: 140 BPM Presto Triumphante / E Minor to C Major / Full Symphonic Brass, Percussion & Soaring Solo Flute
+- **Expected Transformation**: Total shattering of the cage of fragility, stepping permanently into the Antifragile domain ($(-3) \times (-3) = 9$); establishing absolute sovereignty over one's destiny.
+- **Visualization**: Breaking heavy iron chains with a single decisive strike, standing tall upon the summit of past trials while gazing out toward endless, sunlit horizons.
+- **Triggered Action**: Declare complete independence from external validation, committing fully to your sovereign mission, continuous evolution, and lifelong self-determination.
+
 ---
 
 <p align="center">
