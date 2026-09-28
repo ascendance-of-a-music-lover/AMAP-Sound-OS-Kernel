@@ -125,6 +125,35 @@
 * **Expected Transformation:** Integration of all past trials into an unshakable inner core (Swaraj) and continuous evolution.
 * **Visualization:** Standing upon a vast, sunlit horizon, realizing that every breakthrough is not a final destination, but a stepping stone for endless growth.
 * **Triggered Action:** Reaffirm your sovereign purpose with calm conviction, stepping forward into your next phase of evolution.
+
+### Track 19: 『Calmly / शान्त्या』
+
+- **Acoustic Design**: Lento Espressivo / C Minor / A=432Hz Verdi Tuning / Piano, Solo Cello & Ambient Strings
+- **Expected Transformation**: Gentle dissolution of inner turbulence, unfair labels, and suppressed grief; grounding the nervous system in serene stability.
+- **Visualization**: Quiet melting of frozen emotional layers under warm harmonic resonance, embracing stillness as the soil for clarity.
+- **Triggered Action**: Honor your inner feelings without denial, allowing deep introspection and emotional purification to reset your core before crucial execution.
+
+### Track 20: 『Precisely / सूक्ष्मता』
+
+- **Acoustic Design**: 130 BPM Allegro Con Anima / F Major / Accordion, Flute, Ska Brass & Buoyant Bassline
+- **Expected Transformation**: Conversion of shock and heavy hesitation into sharp analytical focus; accelerating cognitive precision and energetic physical momentum.
+- **Visualization**: Breaking through static doubt with a rhythmic leap, stepping forward into a vibrant, self-determined movement.
+- **Triggered Action**: Execute complex analysis or long-delayed tasks with surgical accuracy, swift decisiveness, and active joy.
+
+### Track 21: 『With Swift Decisiveness / 迅速निश्चयेन』
+
+- **Acoustic Design**: 104 BPM Allegretto Grazioso / G Major 3/4 Waltz / Acoustic Guitar, Woodwinds & Pizzicato Strings
+- **Expected Transformation**: Subtraction of cognitive friction and mental noise (Via Negativa), restoring crystal-clear focus and sensory alignment.
+- **Visualization**: Walking lightly through an elegant, uncluttered landscape where every sound and breath resonates with effortless simplicity.
+- **Triggered Action**: Strip away unnecessary chatter and distractions, making immediate, firm commitments on strategic decisions without lingering hesitation.
+
+### Track 22: 『Marching Forward with Indomitable Resolve / अदम्यसङ्कल्पेन』
+
+- **Acoustic Design**: 72 BPM Andante Maestoso / D Major / A=432Hz Resonance / Solo Flute, Grand Piano & Bowed Symphonic Strings
+- **Expected Transformation**: Transmutation of all past trials into an unshakeable inner core (Swaraj) and continuous evolution; experiencing the ultimate $(-3) \times (-3) = 9$ harmonic climax.
+- **Visualization**: Standing upon a vast, sunlit horizon, realizing that every breakthrough is not a final destination, but a stepping stone for endless growth and sovereign expansion.
+- **Triggered Action**: Reaffirm your sovereign purpose with calm conviction, stepping boldly forward into your next phase of evolution and global leadership.
+
 ---
 
 <p align="center">
