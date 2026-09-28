@@ -33,6 +33,10 @@ Displaying or embedding the official badge or logo is subject to the following s
 
 ---
 
-## 3. Violations & Enforcement
+## 3. Enforcement & Legal Remedies for Infringement
 
-Strategist Kongming Establishment Preparation Office reserves the right to request the immediate removal of any visual badges or brand references from any third-party platform, website, or repository if such usage violates these guidelines or misrepresents our official stance.
+Strategist Kongming Establishment Preparation Office reserves all rights to monitor, investigate, and enforce compliance with these guidelines. 
+
+**In the event of unauthorized use, trademark infringement, brand misrepresentation, or violation of these terms, Strategist Kongming Establishment Preparation Office reserves the right to pursue all available legal remedies, including but not limited to formal takedown notices, injunctive relief, and claims for monetary damages under applicable intellectual property laws.**
+
+*(日本語要約: 我々の商標、ブランド名、バッジ、権利を侵害した場合は、プラットフォームへの削除申請に加え、差し止め請求や損害賠償請求を含めた法的措置を講じます。)*
